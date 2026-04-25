@@ -8,6 +8,7 @@ https://github.com/01-edu/public/projects?type=classic
 (1) displaya
 (1) hello
 (1) onlya
+(1) onlyf
 (1) onlyz
 (1) printdigits
 (1) strlen
@@ -18,6 +19,7 @@ https://github.com/01-edu/public/projects?type=classic
 (2) nrune
 (2) lastrune
 (2) printstr
+(2) printifnot
 (2) strrev
 (2) firstrune
 (2) printreversealphabet
@@ -51,6 +53,7 @@ https://github.com/01-edu/public/projects?type=classic
 (4) union
 (4) piglatin
 (4) romannumbers
+(4) printmemory
 (5) firstword
 (5) sortwordarr
 (5) cleanstr
