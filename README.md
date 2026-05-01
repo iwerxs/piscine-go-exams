@@ -19,6 +19,7 @@ https://github.com/01-edu/public/projects?type=classic
 (2) nrune
 (2) lastrune
 (2) printstr
+(2) printif
 (2) printifnot
 (2) strrev
 (2) firstrune
@@ -54,12 +55,14 @@ https://github.com/01-edu/public/projects?type=classic
 (4) piglatin
 (4) romannumbers
 (4) printmemory
+(4) zipstring
 (5) firstword
 (5) sortwordarr
 (5) cleanstr
 (5) addprimesum
 (5) printhex
 (5) gcd
+(5) wdmatch
 (6) printcomb
 (6) split
 (6) hiddenp
