@@ -63,6 +63,7 @@ https://github.com/01-edu/public/projects?type=classic
 (5) printhex
 (5) gcd
 (5) wdmatch
+(5) revconcatalternate
 (6) printcomb
 (6) split
 (6) hiddenp
